@@ -1,34 +1,20 @@
-Usage
+Image
 =====
+.. image:: https://github.com/ananthanir/testWiki/assets/25743008/77f3ab4c-5809-4cfc-8a92-4e93f40d734d
+  :width: 300
+  :height: 300
+  :alt: Alternative text
 
-.. _installation:
-
-Installation
+Code
 ------------
+.. code-block:: html
+   :linenos:
+   :emphasize-lines: 1,2
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+   <iframe width="560" height="315"
+   src="https://youtu.be/O3LgyvGyhIQ?si=VU157XARGbbhbMkR" 
+   frameborder="0" 
+   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
+   </iframe>
+   aro oral
+   enrtho
